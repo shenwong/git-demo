@@ -1,0 +1,4 @@
+definition--what
+property--what
+classification (if and only if)--what
+proof--why
